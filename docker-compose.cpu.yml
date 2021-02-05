@@ -12,7 +12,7 @@
 version: '2.3'
 
 services:
-  idlp_filebrowser:
+  idlp_filebrowse r:
     container_name: idlp_filebrowser
     image: filebrowser/filebrowser
     command: --noauth
